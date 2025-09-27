@@ -132,7 +132,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 🔗 Demo
 
-[Live Demo](https://your-demo-link.com) *(Replace with actual deployment link)*
+[Live Demo](https://tic-tac-toegame-reactjs.netlify.app/) 
 
 ---
 
