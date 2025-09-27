@@ -99,25 +99,6 @@ tic-toe/
 └── README.md
 ```
 
-## 🎨 Design Features
-
-### Visual Elements
-- **Background**: Linear gradient from purple to blue
-- **Cards**: Glass morphism effect with blur and transparency
-- **Buttons**: Gradient buttons with hover effects
-- **Game Board**: 3D-styled grid with hover animations
-- **Icons**: Custom X and O icons with drop shadows
-
-### Animations
-- **Hover Effects**: Smooth scale and lift animations
-- **Button Interactions**: Gradient shifts and shadow changes
-- **Game Pieces**: Fade-in and scale animations when placed
-- **Win Celebration**: Pulsing animation for win announcements
-
-### Responsive Breakpoints
-- **Desktop**: Full-size layout (768px+)
-- **Tablet**: Medium layout (480px - 767px)
-- **Mobile**: Compact layout (< 480px)
 
 ## 🛠️ Technologies Used
 
@@ -138,12 +119,6 @@ The game implements classic Tic Tac Toe rules with the following logic:
 - **Game End Detection**: Automatic win/tie detection
 - **Reset Functionality**: Complete game state reset
 
-## 📱 Browser Support
-
-- ✅ Chrome 90+
-- ✅ Firefox 88+
-- ✅ Safari 14+
-- ✅ Edge 90+
 
 ## 🤝 Contributing
 
@@ -154,22 +129,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**ShubhamG2004**
-- GitHub: [@ShubhamG2004](https://github.com/ShubhamG2004)
-
-## 🙏 Acknowledgments
-
-- React team for the amazing framework
-- Vite team for the lightning-fast build tool
-- Google Fonts for typography
-- CSS community for modern styling techniques
 
 ## 🔗 Demo
 
