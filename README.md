@@ -9,7 +9,7 @@ A beautifully designed, modern Tic Tac Toe game built with React and Vite, featu
 
 ## ✨ Features
 
-### 🎨 **Modern UI/UX**
+### **Modern UI/UX**
 - **Glass Morphism Design**: Beautiful translucent containers with backdrop blur effects
 - **Gradient Backgrounds**: Stunning purple gradient background
 - **Smooth Animations**: Hover effects, button animations, and game piece transitions
@@ -25,7 +25,7 @@ A beautifully designed, modern Tic Tac Toe game built with React and Vite, featu
 - **Reset Functionality**: One-click game reset button
 - **Smart Validation**: Prevents invalid moves on occupied squares
 
-### 🔧 **Technical Features**
+### **Technical Features**
 - **React Hooks**: Modern React with useState and useRef
 - **State Management**: Proper game state handling
 - **Component Structure**: Clean, modular component architecture
@@ -33,7 +33,7 @@ A beautifully designed, modern Tic Tac Toe game built with React and Vite, featu
 - **Mobile First**: Responsive design principles
 - **Performance Optimized**: Fast rendering with Vite
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Node.js (version 14 or higher)
@@ -60,14 +60,14 @@ A beautifully designed, modern Tic Tac Toe game built with React and Vite, featu
 4. **Open your browser**
    Navigate to `http://localhost:5173` to play the game!
 
-## 📋 Available Scripts
+## Available Scripts
 
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint
 
-## 🎯 How to Play
+##  How to Play
 
 1. **Start the Game**: The game begins with Player X (Cross)
 2. **Make Moves**: Click on any empty square to place your symbol
@@ -75,7 +75,7 @@ A beautifully designed, modern Tic Tac Toe game built with React and Vite, featu
 4. **Win Conditions**: Get three of your symbols in a row (horizontal, vertical, or diagonal)
 5. **Reset**: Click the "Reset Game" button to start a new game
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 tic-toe/
@@ -100,7 +100,7 @@ tic-toe/
 ```
 
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Frontend Framework**: React 19.1.1
 - **Build Tool**: Vite 7.1.7
@@ -120,7 +120,7 @@ The game implements classic Tic Tac Toe rules with the following logic:
 - **Reset Functionality**: Complete game state reset
 
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
